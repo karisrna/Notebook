@@ -1,4 +1,4 @@
-# 中山大学航空航天课程笔记
+# 中山大学航空航天课程笔记 from Yi Peng
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## 文件目录说明
